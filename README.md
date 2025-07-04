@@ -1,5 +1,3 @@
-# DB-CPT-LowSNR
-
 # How to train:
 
 ## Step0
