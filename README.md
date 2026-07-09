@@ -1,3 +1,9 @@
+# Low SNR Demo:
+
+Demo files can be viewed in the demo folder.
+
+-----------------------------------------------
+
 # How to train:
 
 ## Step0
