@@ -1,6 +1,8 @@
 # Low SNR Demo:
 
-Demo files can be viewed in the demo folder.
+Demo files can be viewed in this link:
+
+https://m-hakimkhah.github.io/audio-player/
 
 -----------------------------------------------
 
