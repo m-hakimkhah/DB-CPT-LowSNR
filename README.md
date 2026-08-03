@@ -1,4 +1,4 @@
-# Low SNR Demo:
+# Low SNR Demos:
 
 Demo files can be viewed in this link:
 
